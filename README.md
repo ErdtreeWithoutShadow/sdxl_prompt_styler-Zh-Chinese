@@ -3,7 +3,8 @@
 声明：我并不是SDXL Prompt Styler的作者，我只是做了汉化，原作者在[SDXL Prompt Styler](https://github.com/twri/sdxl_prompt_styler)
 
 
-原作者内容：
+
+-----------------
 
 SDXL Prompt Styler
 =======
