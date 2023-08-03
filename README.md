@@ -2,6 +2,7 @@
 
 声明：我并不是SDXL Prompt Styler的作者，我只是做了汉化，原作者在[SDXL Prompt Styler](https://github.com/twri/sdxl_prompt_styler)
 
+![76787248eecc6f6b9d2d1fc9c628839](https://github.com/ZHO-ZHO-ZHO/sdxl_prompt_styler-Zh-Chinese/assets/140084057/d5c26d50-6d4f-4194-9db4-3676d6bed1ce)
 
 
 -----------------
