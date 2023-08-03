@@ -4,7 +4,7 @@ import os
 def read_json_file(file_path):
     try:
         # Open file, load JSON content into python dictionary, and return it.
-        with open(file_path, 'r') as file:
+        with open(file_path, 'r', encoding='utf-8') as file:
             json_data = json.load(file)
             return json_data
     except Exception as e:
