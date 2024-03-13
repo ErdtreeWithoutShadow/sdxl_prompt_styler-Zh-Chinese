@@ -295,7 +295,7 @@
         "negative_prompt": "realistic, modern, horror, dystopian, violent"
     },
     {
-        "name": "游戏-魔兽",
+        "name": "游戏-我的世界",
         "prompt": "Minecraft style {prompt} . blocky, pixelated, vibrant colors, recognizable characters and objects, game assets",
         "negative_prompt": "smooth, realistic, detailed, photorealistic, noise, blurry, deformed"
     },
@@ -330,7 +330,7 @@
         "negative_prompt": "3D, realistic, modern, photorealistic, turn-based strategy"
     },
     {
-        "name": "游戏-塞尔达",
+        "name": "游戏-塞尔达传说",
         "prompt": "Legend of Zelda style {prompt} . vibrant, fantasy, detailed, epic, heroic, reminiscent of The Legend of Zelda series",
         "negative_prompt": "sci-fi, modern, realistic, horror"
     },
@@ -350,7 +350,7 @@
         "negative_prompt": "realistic, concrete, ordinary, mundane"
     },
     {
-        "name": "杂项-乌托邦",
+        "name": "杂项-反乌托邦",
         "prompt": "dystopian style {prompt} . bleak, post-apocalyptic, somber, dramatic, highly detailed",
         "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, cheerful, optimistic, vibrant, colorful"
     },
@@ -380,12 +380,12 @@
         "negative_prompt": "dark, scary, realistic, monochrome, abstract"
     },
     {
-        "name": "杂项-魔幻",
+        "name": "杂项-洛氏恐怖",
         "prompt": "lovecraftian horror {prompt} . eldritch, cosmic horror, unknown, mysterious, surreal, highly detailed",
         "negative_prompt": "light-hearted, mundane, familiar, simplistic, realistic"
     },
     {
-        "name": "杂项-黑色幽默",
+        "name": "杂项-Macabre式恐怖",
         "prompt": "macabre style {prompt} . dark, gothic, grim, haunting, highly detailed",
         "negative_prompt": "bright, cheerful, light-hearted, cartoonish, cute"
     },
@@ -415,12 +415,12 @@
         "negative_prompt": "landlocked, desert, mountains, urban, rustic"
     },
     {
-        "name": "杂项-空间",
+        "name": "杂项-太空",
         "prompt": "space-themed {prompt} . cosmic, celestial, stars, galaxies, nebulas, planets, science fiction, highly detailed",
         "negative_prompt": "earthly, mundane, ground-based, realism"
     },
     {
-        "name": "m杂项-染色玻璃",
+        "name": "杂项-染色玻璃",
         "prompt": "stained glass style {prompt} . vibrant, beautiful, translucent, intricate, detailed",
         "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, realism, photorealistic"
     },
@@ -435,7 +435,7 @@
         "negative_prompt": "modern, futuristic, minimalist, pastel"
     },
     {
-        "name": "杂项-方格",
+        "name": "杂项-禅绕画",
         "prompt": "zentangle {prompt} . intricate, abstract, monochrome, patterns, meditative, highly detailed",
         "negative_prompt": "colorful, representative, simplistic, large fields of color"
     },
@@ -460,7 +460,7 @@
         "negative_prompt": "2D, flat, photo, sketch, digital art, deformed, noisy, blurry"
     },
     {
-        "name": "纸模-纸扎",
+        "name": "纸模-卷纸艺术",
         "prompt": "paper quilling art of {prompt} . intricate, delicate, curling, rolling, shaping, coiling, loops, 3D, dimensional, ornamental",
         "negative_prompt": "photo, painting, drawing, 2D, flat, deformed, noisy, blurry"
     },
@@ -475,7 +475,7 @@
         "negative_prompt": "painting, drawing, photo, 2D, flat, high detail, blurry, noisy, disfigured"
     },
     {
-        "name": "纸模-叠剪纸",
+        "name": "纸模-叠式剪纸",
         "prompt": "stacked papercut art of {prompt} . 3D, layered, dimensional, depth, precision cut, stacked layers, papercut, high contrast",
         "negative_prompt": "2D, flat, noisy, blurry, painting, drawing, photo, deformed"
     },
@@ -490,12 +490,12 @@
         "negative_prompt": "earthly, mundane, common, realistic, simple"
     },
     {
-        "name": "照片-黑色",
+        "name": "照片-黑色电影",
         "prompt": "film noir style {prompt} . monochrome, high contrast, dramatic shadows, 1940s style, mysterious, cinematic",
         "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, vibrant, colorful"
     },
     {
-        "name": "照片-高清",
+        "name": "照片-HDR",
         "prompt": "HDR photo of {prompt} . High dynamic range, vivid, rich details, clear shadows and highlights, realistic, intense, enhanced contrast, highly detailed",
         "negative_prompt": "flat, low contrast, oversaturated, underexposed, overexposed, blurred, noisy"
     },
@@ -505,7 +505,7 @@
         "negative_prompt": "static, noisy, deformed, shaky, abrupt, flat, low contrast"
     },
     {
-        "name": "照片-霓虹迷踪",
+        "name": "照片-霓虹黑色电影",
         "prompt": "neon noir {prompt} . cyberpunk, dark, rainy streets, neon signs, high contrast, low light, vibrant, highly detailed",
         "negative_prompt": "bright, sunny, daytime, low contrast, black and white, sketch, watercolor"
     },
